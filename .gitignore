@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Laravel / PHP specific
+/vendor/
+/storage/framework/cache/
+/storage/logs/
+/storage/debugbar/
+
+# Environment files
+.env
+.env.*
+
+# Build / dist outputs
+dist/
+build/
+output_path/
+output_images/
+outputs/
+
+# VS Code settings
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
