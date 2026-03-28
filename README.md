@@ -285,10 +285,9 @@ This system was developed strictly for academic research. Key ethical considerat
 
 ## 📚 Academic Context
 
-**Institution**: [Your University Name]  
+**Institution**: [University Tunku Abdul Rahman]  
 **Year**: 2025  
 **Module**: Final Year Project  
-**Grade**: [Your Grade — optional]
 
 ---
 
