@@ -6,9 +6,13 @@ A full-stack deepfake face image generation and custom GAN model training web ap
 
 ---
 
-## 📹 Demo
+## 📹 Demo of Application
+<img width="960" height="772" alt="image" src="https://github.com/user-attachments/assets/47f98e20-a3b0-4fe1-b452-59f778e0cfa3" />
+<img width="625" height="697" alt="image" src="https://github.com/user-attachments/assets/ee10f0e5-5781-4738-b40f-b0453a1d6a77" />
 
-> [Demo Video (YouTube)](YOUR_DEMO_VIDEO_LINK_HERE)
+<img width="636" height="503" alt="image" src="https://github.com/user-attachments/assets/e6f05841-7b6e-4522-8754-a5a23e69e5e2" />
+
+
 
 ---
 
